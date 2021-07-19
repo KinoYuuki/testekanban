@@ -6,6 +6,6 @@ Login: Fiz uma rota para login, onde ele passa por uma autenticação conforme o
 
 Cards: Fiz a criação de routes num arquivo separado, onde como params recebe um auth pra autenticação de token (middleware), um controller (ação a se fazer sobre as cards), e por fim, no PUT e DELETE eu coloquei um param a mais que foi solicitado pra printar no console.log qual foi a alteração realizada no database.
 
-Não consegui mexer com o Dockers pois não tenho conhecimento e estava sem tempo pra dar uma olhada sobre, tive que investir o tempo que eu tinha para estudar SEQUELIZE e Express na qual eu não fazia ideia do que se tratava. Essa foi a minha primeira experiência com Javascrip e NodeJS, até então eu só sabia a parte teórica, espero que o código tenha ficado legível, compreensível e tenha coesão nas nomenclaturas, funções e separação de arquivos.
+Não consegui mexer com o Dockers pois não tenho conhecimento e estava sem tempo pra dar uma olhada sobre, tive que investir o tempo que eu tinha para estudar SEQUELIZE e Express. Essa foi a minha primeira experiência com Javascrip e NodeJS, até então eu só sabia a parte teórica, espero que o código tenha ficado legível, compreensível e tenha coesão nas nomenclaturas, funções e separação de arquivos.
 
 Obrigado pela oportunidade!
